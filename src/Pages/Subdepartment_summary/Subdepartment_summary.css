@@ -1,0 +1,13 @@
+.summary_body{
+    background-color: #F3F3F3;
+    height:150vh;
+    width: 100%;
+}
+
+tr td button{
+     width: 100px;
+}
+
+/* table tbody .table-row{
+    margin: 2px;
+} */

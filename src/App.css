@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+.main{
+  width: 100%;
+  padding-left: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+/* .pagetitle{
+  padding-left: 70px;
+  padding-top: 20px;
+ 
+} */
+
+/* .tbl{
+  padding: 50px;
+  align-items: center;
+  justify-content: space-between !important ;
+  box-shadow: 5px 10px 18px #888888;
+  /* padding-left: 150px; */
